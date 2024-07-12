@@ -28,7 +28,7 @@
 
 ### DevOps
 
-- **Tools**:Git, GitHub
+- **Tools**: Git, GitHub
 
 ### Development Environments
 
