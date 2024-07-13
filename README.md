@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🌟 **Full Name**: Or Peisach.
+- 🌟 **Full Name**: Or Peisach
 - 💼 **Current Position**: Full Stack Developer at Jooba 
 - 📍 **Location**: Israel
 - 🌱 **Learning**: Always exploring new technologies and improving my skills 
