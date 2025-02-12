@@ -5,7 +5,7 @@
 ## About Me
 
 - 🌟 **Full Name**: Or Peisach
-- 💼 **Current Position**: VPRND and Full Stack Developer at Jooba 
+- 💼 **Current Position**: VP R&D and Full Stack Developer at Jooba 
 - 📍 **Location**: Israel
 - 🌱 **Learning**: Always exploring new technologies and improving my skills 
 - ⚡ **Hobbies**: Coding, playing video games, gym, playing the trombone and staying updated with the latest tech trends
